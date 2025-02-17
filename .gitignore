@@ -29,5 +29,6 @@ out
 /*.iml
 /logs
 
-# 20250217 Ender client using .idea for now...
-# /.idea
+# 20250217 until this is figured out... 20250217
+/.idea
+
