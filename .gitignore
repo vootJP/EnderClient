@@ -16,3 +16,18 @@ out
 /windows.json
 /charterbook.json
 /autochoose.json
+
+/changelog.txt
+
+/keybindings.json
+/item_drop.json
+/timers.cfg
+/updater.json
+
+
+
+/*.iml
+/logs
+
+# 20250217 Ender client using .idea for now...
+# /.idea
